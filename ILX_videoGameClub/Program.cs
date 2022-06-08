@@ -18,11 +18,20 @@
  * 
  */
 
-string platform = "PS5";
-string gameName = "Horizon Forbiden West";
+
 string memberName = "Gabriel Silva";
 string memberEmail = "Gabriel.silva@intelex.com"
-bool isBorrowed = yes;
-DateTime dateBorrowed = new DateTime();
-sbyte quantity = 1;
 
+DateTime dateBorrowed = new DateTime();
+
+
+namespace ILX_videoGameClub
+{
+    public class GameInventory
+    {
+        string platform = "PS5";
+        string gameName = "Horizon Forbiden West";
+        sbyte quantity = 1;
+        bool isBorrowed = true;
+    }
+}
