@@ -1,0 +1,15 @@
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\bin\Debug\net6.0\ILX_videoGameClub.exe
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\bin\Debug\net6.0\ILX_videoGameClub.deps.json
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\bin\Debug\net6.0\ILX_videoGameClub.runtimeconfig.json
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\bin\Debug\net6.0\ILX_videoGameClub.dll
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\bin\Debug\net6.0\ILX_videoGameClub.pdb
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.csproj.AssemblyReference.cache
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.AssemblyInfoInputs.cache
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.AssemblyInfo.cs
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.dll
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\refint\ILX_videoGameClub.dll
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.pdb
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ILX_videoGameClub.genruntimeconfig.cache
+D:\Coding\C#\Course\ILX_videoGameClub\ILX_videoGameClub\obj\Debug\net6.0\ref\ILX_videoGameClub.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\C#\\source\\repos\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj": {}
+    "D:\\Coding\\C#\\Course\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\C#\\source\\repos\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj": {
+    "D:\\Coding\\C#\\Course\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\C#\\source\\repos\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj",
+        "projectUniqueName": "D:\\Coding\\C#\\Course\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj",
         "projectName": "ILX_videoGameClub",
-        "projectPath": "D:\\Coding\\C#\\source\\repos\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj",
+        "projectPath": "D:\\Coding\\C#\\Course\\ILX_videoGameClub\\ILX_videoGameClub\\ILX_videoGameClub.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\C#\\source\\repos\\ILX_videoGameClub\\ILX_videoGameClub\\obj\\",
+        "outputPath": "D:\\Coding\\C#\\Course\\ILX_videoGameClub\\ILX_videoGameClub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
