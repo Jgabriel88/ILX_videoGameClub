@@ -8,19 +8,64 @@ namespace ILX_videoGameClub
 {
     
     public class Game
-     {
-        public sbyte gameId { get; set; }
+     {  
+        private sbyte _gameId;
+        public sbyte gameId
+        {
+            get
+            {
+                return _gameId;
+            }
+            set { 
+                
+                if (value <= 0) 
+                {
+                    Console.WriteLine("Game id must contain 4 digits");
+                }
+                else
+                {
+                    _gameId = value;    
+                }
+                    }
+            
+        
+        }
         public string platform { get; set; }
         public string gameName { get; set; }
         public sbyte quantity { get; set; }
         public bool isBorrowed { get; set; }
 
-        public bool BorrowGame(bool game)
-        {
-            return isBorrowed = true;
-
-        }
+    
 
      }
     
+}
+
+
+class Aluno
+{
+    private int matricula;
+    public int Matricula
+    {
+        get
+        {
+            return matricula;
+        }
+        set
+        {
+            if (value <= 0)
+            {
+                Console.WriteLine("The number entered has to be positive.");
+                
+            }
+            else
+            {
+                matricula = value;
+            }
+        }
+    }
+    public string Nome { get; set; }
+    public string Email { get; set; }
+    public bool Status { get; set; }
+    public int TipoCurso { get; set; }
 }
