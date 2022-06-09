@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace ILX_videoGameClub
 {
-    internal class Class1
-    {
-    }
+    
+    public class Game
+     {
+        public sbyte gameId;
+        public string platform;
+        public string gameName;
+        public sbyte quantity;
+        public bool isBorrowed;
+        
+        public string RentGame(string game)
+        {
+            return platform;
+        }
+     }
+    
 }
