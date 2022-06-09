@@ -9,16 +9,12 @@ namespace ILX_videoGameClub
     
     public class Game
      {
-        public sbyte gameId;
-        public string platform;
-        public string gameName;
-        public sbyte quantity;
-        public bool isBorrowed;
-        
-        public string RentGame(string game)
-        {
-            return platform;
-        }
+        public sbyte gameId { get; set; }
+        public string platform { get; set; }
+        public string gameName { get; set; }
+        public sbyte quantity { get; set; }
+        public bool isBorrowed { get; set; }
+
      }
     
 }

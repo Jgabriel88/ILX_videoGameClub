@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ILX_videoGameClub
 {
-    public class Member
+    internal class BorrowGame
     {
-        private string memberName;
-        private string memberEmail;
+        public bool isBorrowed;
     }
 }
