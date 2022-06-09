@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ILX_videoGameClub
 {
-    public class MemberList
+    public class Member
     {
-        string memberName;
-        string memberEmail;
+        public string memberName;
+        public string memberEmail;
     }
 }
