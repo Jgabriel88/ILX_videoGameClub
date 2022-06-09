@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ILX_videoGameClub
 {
-    
+
     public class Game
-     {  
+    {
         private sbyte _gameId;
         public sbyte gameId
         {
@@ -16,29 +16,30 @@ namespace ILX_videoGameClub
             {
                 return _gameId;
             }
-            set { 
-                
-                if (value <= 0) 
+            set
+            {
+
+                if (value <= 0)
                 {
                     Console.WriteLine("Game id must contain 4 digits");
                 }
                 else
                 {
-                    _gameId = value;    
+                    _gameId = value;
                 }
-                    }
-            
-        
+            }
+
+
         }
         public string platform { get; set; }
         public string gameName { get; set; }
         public sbyte quantity { get; set; }
         public bool isBorrowed { get; set; }
 
-    
 
-     }
-    
+
+    }
+
 }
 
 
@@ -56,7 +57,7 @@ class Aluno
             if (value <= 0)
             {
                 Console.WriteLine("The number entered has to be positive.");
-                
+
             }
             else
             {
