@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Welcome to Intelex Video Game Club");
+﻿using ILX_videoGameClub;
+
+
+
+Console.WriteLine("Welcome to Intelex Video Game Club");
 
 /*
  * Variables
@@ -19,19 +23,18 @@
  */
 
 
-string memberName = "Gabriel Silva";
-string memberEmail = "Gabriel.silva@intelex.com"
+
 
 DateTime dateBorrowed = new DateTime();
 
+Member member001 = new Member();
+member001.memberName = "Gabriel Silva";
+member001.memberEmail = "gabriel.silva@intelex.com";
 
-namespace ILX_videoGameClub
-{
-    public class GameInventory
-    {
-        string platform = "PS5";
-        string gameName = "Horizon Forbiden West";
-        sbyte quantity = 1;
-        bool isBorrowed = true;
-    }
-}
+Game game0001 = new Game();
+game0001.platform = "PS5";
+game0001.gameName = "Horizon Forbidden West";
+game0001.isBorrowed = true;
+
+
+ILX_videoGameClub.Game.RentGame(game0001);
