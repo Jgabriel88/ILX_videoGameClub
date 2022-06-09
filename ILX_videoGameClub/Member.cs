@@ -8,7 +8,8 @@ namespace ILX_videoGameClub
 {
     public class Member
     {
-        private string memberName;
-        private string memberEmail;
+        public string memberName { get; set; }
+        public string memberEmail { get; set; }
+       
     }
 }
