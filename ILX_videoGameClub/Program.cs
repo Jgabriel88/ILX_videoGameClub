@@ -36,5 +36,7 @@ game0001.platform = "PS5";
 game0001.gameName = "Horizon Forbidden West";
 game0001.isBorrowed = true;
 
+Console.WriteLine(member001.memberName);
+Console.WriteLine(game0001.gameName);
+Console.WriteLine(game0001.isBorrowed);
 
-ILX_videoGameClub.Game.RentGame(game0001);

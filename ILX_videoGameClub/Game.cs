@@ -15,6 +15,12 @@ namespace ILX_videoGameClub
         public sbyte quantity { get; set; }
         public bool isBorrowed { get; set; }
 
+        public bool BorrowGame(bool game)
+        {
+            return isBorrowed = true;
+
+        }
+
      }
     
 }
